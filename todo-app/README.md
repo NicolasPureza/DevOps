@@ -1,12 +1,12 @@
 # Laboratório Prático: To-Do API em Flask (Testes Automatizados & GitHub Actions)
-
+.
 Guia prático para desenvolvimento, teste e automação de integração contínua (CI) de uma API REST desenvolvida em Flask, cobrindo toda a **Pirâmide de Testes (Unitários, Integração e E2E)** e a configuração de **Quality Gates no GitHub Actions**.
 
 ---
 
 ## Objetivos da Atividade
 
-1. Executar a aplicação To-Do localmente em ambiente virtual Python.
+1. Executar a aplicaçãos To-Do localmente em ambiente virtual Python.
 2. Implementar e executar testes automatizados em três níveis:
    - **Testes Unitários:** Regras de negócio isoladas (`models.py` e `services.py`).
    - **Testes de Integração:** Validação de rotas HTTP, contratos e códigos de status (`routes.py`).
